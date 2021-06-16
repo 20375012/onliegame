@@ -1,0 +1,31 @@
+﻿2021/06/16 11:23:48 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\school\3Dゲーム基礎技術\Onlinegame\DxLibProgram\DxLibProgram.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\DxLibProgram.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\DxLib_VC" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Common.cpp ConsoleWindow.cpp WinMain.cpp
+         WinMain.cpp
+         ConsoleWindow.cpp
+         Common.cpp
+         コードを生成中...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\DxLibProgram.exe.embed.manifest.res" Debug\DxLibProgram_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\school\3Dゲーム基礎技術\Onlinegame\Debug\DxLibProgram.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\DxLib_VC" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DxLibProgram.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\school\3Dゲーム基礎技術\Onlinegame\Debug\DxLibProgram.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\school\3Dゲーム基礎技術\Onlinegame\Debug\DxLibProgram.lib" /MACHINE:X86 Debug\DxLibProgram.exe.embed.manifest.res
+         Debug\Common.obj
+         Debug\ConsoleWindow.obj
+         Debug\WinMain.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DxLibProgram.exe.embed.manifest" /manifest Debug\DxLibProgram.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         DxLibProgram.vcxproj -> C:\school\3Dゲーム基礎技術\Onlinegame\Debug\DxLibProgram.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\DxLibProgram.unsuccessfulbuild" を削除しています。
+         "Debug\DxLibProgram.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\school\3Dゲーム基礎技術\Onlinegame\DxLibProgram\DxLibProgram.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:03.89
