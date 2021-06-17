@@ -79,11 +79,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Chara_CameraPosition.cpp" />
+    <ClCompile Include="chara_player.cpp" />
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="Common.cpp" />
     <ClCompile Include="ConsoleWindow.cpp" />
+    <ClCompile Include="Key.cpp" />
     <ClCompile Include="Server.cpp" />
     <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="WinMain_SetServerClient.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animation.h" />
